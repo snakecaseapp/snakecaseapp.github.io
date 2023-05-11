@@ -23,7 +23,7 @@ email: support@snakecase.app
 description: >- # this means to ignore newlines until "baseurl:"
   Boost Your Shopify Store's Performance with Snake Case Apps - Empower Your E-Commerce Business Today!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://snakecase.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://snakecase.app" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: snakecaseapp
 github_username:  snakecaseapp
 
